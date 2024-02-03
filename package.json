@@ -1,10 +1,9 @@
 {
-    "name": "@miq/yarn-2-workspaces-monorepo-example",
+    "name": "yarn-2-workspaces-monorepo-example",
     "private": true,
-    "workspaces": [
-        "packages/*"
-    ],
-    "scripts": {
-        "start:myapp1": "yarn workspace @miq/myapp-1 start"
-    }
+ "dependencies": {
+    "json": "9.0.6",
+    "minimist": "1.2.5",
+    "tough-cookie": "2.5.0"
+  }
 }
