@@ -1,5 +1,5 @@
 {
-    "name": "@miq/yarn-2-workspaces-monorepo-example",
+    "name": "@miq/yarn-2-workspaces-monorepo-example1",
     "private": true,
     "workspaces": [
         "packages/*"
