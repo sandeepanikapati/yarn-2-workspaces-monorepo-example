@@ -1,5 +1,5 @@
 {
-    "name": "yarn-2-workspaces-monorepo-example",
+    "name": "yarn-2-workspaces-monorepo-example1",
     "private": true,
  "dependencies": {
     "json": "9.0.6",
